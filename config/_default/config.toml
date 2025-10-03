@@ -1,5 +1,5 @@
 # Change baseurl before deploy
-baseurl = "https://refigo.github.io/blog/"
+baseurl = "https://refigo.github.io/blog-hugo-theme-stack/"
 languageCode = "en-us"
 title = "Refi Go"
 
